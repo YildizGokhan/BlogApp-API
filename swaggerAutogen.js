@@ -1,6 +1,6 @@
 "use strict"
 
-const HOST = "127.0.0.1:8000"
+const HOST = "https://blog-app-api-vert.vercel.app"
 
 const swaggerAutogen = require('swagger-autogen')()
 const packageJson = require('./package.json')
