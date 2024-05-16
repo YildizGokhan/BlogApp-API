@@ -46,7 +46,6 @@ module.exports = {
                     "firstName": "test",
                     "lastName": "test",
                     "image": "https://wwww......",
-                    "city": "test",
                     "bio": "test"
                 }
             }
@@ -98,7 +97,6 @@ module.exports = {
                     "firstName": "test",
                     "lastName": "test",
                     "image": "https://wwww......",
-                    "city": "test",
                     "bio": "test"
                 }
             }
